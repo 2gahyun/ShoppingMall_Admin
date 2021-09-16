@@ -1,0 +1,19 @@
+/* 클래스 이름이 title 인 것 */
+.title {
+    /* tac+fz28+fw500+mb50+mt50 */
+    text-align: center;
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.add_table td {padding: 3px;}
+/* add_table 안쪽의 모든 input */
+.add_table input, .add_table select {width: 300px; padding: 10px; outline: none; border: 1px solid #ddd; background-color: #f7f7f7; border-radius: 5px; font-family: 'Gugi', cursive;}
+.add_table #mi_birth_year, .add_table #mi_birth_month, .add_table #mi_birth_date {width: 60px;}
+.add_table button {font-family:'Gugi', cursive; border: 0; border-radius:3px; background-color: rgb(88, 88, 88); color: #fff; padding: 10px 20px; cursor: pointer;}
+.add_table #add {width: 200px; margin-top: 30px; margin-left: 100px;}
+.add_table button:hover {background-color: #333;}
+.add_table {width: 540px; margin: 0 auto;}
+.add_table tr:last-child {text-align: center;}
+.add_table select {width: 322px;}
